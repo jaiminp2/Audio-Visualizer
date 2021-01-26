@@ -1,0 +1,11 @@
+Making a playback manager:
+https://docs.juce.com/master/tutorial_playing_sound_files.html
+
+Fast Fourier Transform with JUCE:
+https://docs.juce.com/master/tutorial_simple_fft.html
+
+Drawing an audio waveform:
+https://docs.juce.com/master/tutorial_audio_thumbnail.html
+
+Someone else's visualizer app:
+https://github.com/indrajithi/Audio-Visualizer
