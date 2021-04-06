@@ -21,4 +21,4 @@ A spectrograph is a histogram that displays the relative weights (based on decib
 
 A waveform graph shows the volume of the audio track at each given frame. From these, one can see how loud or soft a given section will be, and can also visualize dynamic range (the contrast between loud and soft sections). 
 
-![Waveform Graph](images/waveform graph.png)
+!["Waveform Graph](images/waveform graph.png)
